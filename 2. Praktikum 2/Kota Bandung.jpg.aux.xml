@@ -1,0 +1,72 @@
+<PAMDataset>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="COMPRESSION">JPEG</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+  </Metadata>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:CompositeXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/10.3">
+      <XF_0 xsi:type="typens:PolynomialXform">
+        <PolynomialOrder>1</PolynomialOrder>
+        <SpatialReference xsi:type="typens:UnknownCoordinateSystem">
+          <XOrigin>-2232.5</XOrigin>
+          <YOrigin>-2015.5</YOrigin>
+          <XYScale>1614193414828.135</XYScale>
+          <XYTolerance>1.2390088954816745e-012</XYTolerance>
+          <HighPrecision>true</HighPrecision>
+        </SpatialReference>
+        <CoeffX xsi:type="typens:ArrayOfDouble">
+          <Double>0</Double>
+          <Double>1</Double>
+          <Double>0</Double>
+        </CoeffX>
+        <CoeffY xsi:type="typens:ArrayOfDouble">
+          <Double>0</Double>
+          <Double>0</Double>
+          <Double>1</Double>
+        </CoeffY>
+        <InverseCoeffX xsi:type="typens:ArrayOfDouble">
+          <Double>0</Double>
+          <Double>1</Double>
+          <Double>0</Double>
+        </InverseCoeffX>
+        <InverseCoeffY xsi:type="typens:ArrayOfDouble">
+          <Double>0</Double>
+          <Double>0</Double>
+          <Double>1</Double>
+        </InverseCoeffY>
+      </XF_0>
+      <XF_1 xsi:type="typens:PolynomialXform">
+        <PolynomialOrder>1</PolynomialOrder>
+        <SpatialReference xsi:type="typens:UnknownCoordinateSystem">
+          <XOrigin>-2232.5</XOrigin>
+          <YOrigin>-2015.5</YOrigin>
+          <XYScale>1614193414828.135</XYScale>
+          <XYTolerance>1.2390088954816745e-012</XYTolerance>
+          <HighPrecision>true</HighPrecision>
+        </SpatialReference>
+        <CoeffX xsi:type="typens:ArrayOfDouble">
+          <Double>0</Double>
+          <Double>1</Double>
+          <Double>0</Double>
+        </CoeffX>
+        <CoeffY xsi:type="typens:ArrayOfDouble">
+          <Double>0</Double>
+          <Double>0</Double>
+          <Double>1</Double>
+        </CoeffY>
+        <InverseCoeffX xsi:type="typens:ArrayOfDouble">
+          <Double>0</Double>
+          <Double>1</Double>
+          <Double>0</Double>
+        </InverseCoeffX>
+        <InverseCoeffY xsi:type="typens:ArrayOfDouble">
+          <Double>0</Double>
+          <Double>0</Double>
+          <Double>1</Double>
+        </InverseCoeffY>
+      </XF_1>
+      <RequireDEM>false</RequireDEM>
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>
